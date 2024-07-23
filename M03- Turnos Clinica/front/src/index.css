@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: linear-gradient(
+    to left,
+    rgb(12,40,117) 0%,
+    rgba(0,128, 128,1) 100%
+  );
+}

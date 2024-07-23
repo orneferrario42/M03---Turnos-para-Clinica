@@ -1,0 +1,22 @@
+.card {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px; /* Espacio entre tarjetas */
+  }
+  
+  .info {
+    margin-bottom: 10px; /* Espacio entre datos */
+  }
+  
+  /* Clase para estado activo */
+  .active {
+    color: green; /* Cambia el color del texto a verde */
+  }
+  
+  /* Clase para estado cancelado */
+  .canceled {
+    color: red; /* Cambia el color del texto a rojo */
+  }
+  

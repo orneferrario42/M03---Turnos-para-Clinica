@@ -1,0 +1,20 @@
+.container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    align-items: center; /* Alinea verticalmente el contenido */
+}
+
+.image {
+    width: 150px; /* Ajusta el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    margin-right: 20px; /* Espacio a la derecha de la imagen */
+}
+
+.text {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    flex: 1; /* El texto ocupará todo el espacio restante */
+}
